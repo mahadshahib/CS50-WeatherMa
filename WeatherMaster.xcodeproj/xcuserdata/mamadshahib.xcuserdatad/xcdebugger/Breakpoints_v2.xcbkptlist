@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "89D6D0A7-E90A-4F0F-844D-70539A469AD2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED42AA22-89C3-403F-A324-6C9A809E0A25"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "authorizePermission()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1E68FBB-1FAD-4D4D-97D7-52E456EB1C33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73C9F642-A65D-438A-A740-13227FE52738"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73C9F642-A65D-438A-A740-13227FE52738 - 13b9b2f10b5a0161"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "73C9F642-A65D-438A-A740-13227FE52738 - 13b9b2f10b5a0140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "73C9F642-A65D-438A-A740-13227FE52738 - 13b9b2f10b5a029e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9548A83-8C79-4250-BAF9-C2CFD43C6697"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9548A83-8C79-4250-BAF9-C2CFD43C6697 - 13b9b2f10b5a0140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "B9548A83-8C79-4250-BAF9-C2CFD43C6697 - 13b9b2f10b5a0140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "B9548A83-8C79-4250-BAF9-C2CFD43C6697 - 13b9b2f10b5a029e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B939E965-3A3C-4878-94F4-4CD23E9D3EDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B939E965-3A3C-4878-94F4-4CD23E9D3EDB - 13b9b2f10b5a029e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "B939E965-3A3C-4878-94F4-4CD23E9D3EDB - b21a5b3db8d9a20a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WeatherMa.Location, __C.CLLocation) -&gt; () in WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "B939E965-3A3C-4878-94F4-4CD23E9D3EDB - 13b9b2f10b5a029e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "B939E965-3A3C-4878-94F4-4CD23E9D3EDB - 13b9b2f10b5a029e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0B01F45-864B-4A01-AC46-150A43D1684A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0B01F45-864B-4A01-AC46-150A43D1684A - 13b9b2f10b5a029e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "A0B01F45-864B-4A01-AC46-150A43D1684A - b21a5b3db8d9a20a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WeatherMa.Location, __C.CLLocation) -&gt; () in WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "A0B01F45-864B-4A01-AC46-150A43D1684A - 13b9b2f10b5a029e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B17FA8B8-29B4-49A3-B5BE-2FCF39EB8A3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E14A8CF6-B27F-4332-B6D1-8BFFA2004D5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "057C5AF2-7747-4CCD-B398-DF830F387F09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "057C5AF2-7747-4CCD-B398-DF830F387F09 - b21a5b3db8d9a28e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WeatherMa.Location, __C.CLLocation) -&gt; () in WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "057C5AF2-7747-4CCD-B398-DF830F387F09 - 29227942d8aa18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (WeatherMa.Location, __C.CLLocation) -&gt; () in WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89133B36-38D3-41DF-8E30-6C3B8EF25A14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "89133B36-38D3-41DF-8E30-6C3B8EF25A14 - b21a5b3db8d9a28e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WeatherMa.Location, __C.CLLocation) -&gt; () in WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "89133B36-38D3-41DF-8E30-6C3B8EF25A14 - 29227942d8aa18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (WeatherMa.Location, __C.CLLocation) -&gt; () in WeatherMa.WeatherMaVC.locationManager(_: __C.CLLocationManager, didChangeAuthorization: __C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "WeatherMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamadshahib/Downloads/WeatherMa5-main-2/Sources/WeatherMa/WeatherMaVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
